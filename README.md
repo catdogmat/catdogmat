@@ -1,1 +1,1 @@
-[![catdogmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=catdogmat)](https://github.com/anuraghazra/github-readme-stats)
+![catdogmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=catdogmat&show_icons=true&theme=tokyonight)
