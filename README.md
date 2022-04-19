@@ -1,5 +1,5 @@
 <h3 align="center">【Welcome to my profile!】<br>🏽 I'm Beano09 --- @catdogmat 🏽</h3>
-<p align="center">Studying at <b>N/A</b><br>Email: <b>pif12345677@gmail.com</b><br>Email 2: <b>finnamiadog@gmail.com</b><br>
+<p align="center">><br>Email: <b>pif12345677@gmail.com</b><br>Email 2: <b>finnamiadog@gmail.com</b><br>
 🌐 https://finnieboi.tk<br></p><br>
 <hr>
 <p align="center">
